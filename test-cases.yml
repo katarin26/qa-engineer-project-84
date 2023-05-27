@@ -6,7 +6,7 @@
   prerequisites: |
     Открыта страница с выбором товаров
   test-data: |
-
+    Нет данных
   steps:  
     - вводим в поле поиска "samsung"
   expected-result: |
@@ -19,7 +19,7 @@
   prerequisites: |
     Открыта страница с выбором товаров
   test-data: |
-  
+    Нет данных
   steps:
     - выбираем диапазон цен в поле "цена"
   expected-result: |
@@ -32,7 +32,7 @@
   prerequisites: |
     Открыта страница с выбором товаров
   test-data: |
-  
+    Нет данных  
   steps:
     - нажимаем на любой выбранный товар
   expected-resuit: |
@@ -45,7 +45,7 @@
   prerequisites: |
     Открыта страница с выбором товаров
   test-data: |
-  
+    Нет данных
   steps:
     - выбираем товар
     - добавляем товар в корзину
@@ -61,7 +61,7 @@
   prerequisites: |
     Скопирована ссылка на приложение магазина
   test-data: |
-    
+    Нет данных
   steps:
     - заходим на сайт http://adaptivator.ru/?site=https%3A%2F%2Fhexlet-products-store.vercel.app%2F
     - вставляем ссылку на приложение магазина в нужное поле
@@ -76,7 +76,7 @@
   prerequisites: |
     Доступ к последним версиям браузеров Google Chrome, Safari, Firefox
   test-data: |
-  
+    Нет данных
   steps:
     - открываем браузер Google Chrome
     - заходим на сайт https://hexlet-products-store.vercel.app/
